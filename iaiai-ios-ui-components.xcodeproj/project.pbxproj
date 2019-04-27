@@ -15,6 +15,7 @@
 		A8110807227451F900108F98 /* icon_question.png in Resources */ = {isa = PBXBuildFile; fileRef = A8110803227451F900108F98 /* icon_question.png */; };
 		A8110808227451F900108F98 /* icon_fail.png in Resources */ = {isa = PBXBuildFile; fileRef = A8110804227451F900108F98 /* icon_fail.png */; };
 		A8110809227451F900108F98 /* icon_tip.png in Resources */ = {isa = PBXBuildFile; fileRef = A8110805227451F900108F98 /* icon_tip.png */; };
+		A811080B22748F3E00108F98 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A811080A22748F3E00108F98 /* README.md */; };
 		A85609032235262F00A8EB13 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85609022235262F00A8EB13 /* AppDelegate.swift */; };
 		A85609052235262F00A8EB13 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85609042235262F00A8EB13 /* ViewController.swift */; };
 		A85609082235262F00A8EB13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A85609062235262F00A8EB13 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 		A8110803227451F900108F98 /* icon_question.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_question.png; sourceTree = "<group>"; };
 		A8110804227451F900108F98 /* icon_fail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_fail.png; sourceTree = "<group>"; };
 		A8110805227451F900108F98 /* icon_tip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_tip.png; sourceTree = "<group>"; };
+		A811080A22748F3E00108F98 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A85608FF2235262F00A8EB13 /* iaiai-ios-ui-components.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iaiai-ios-ui-components.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A85609022235262F00A8EB13 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A85609042235262F00A8EB13 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 		A85608F62235262F00A8EB13 = {
 			isa = PBXGroup;
 			children = (
+				A811080A22748F3E00108F98 /* README.md */,
 				A85609012235262F00A8EB13 /* iaiai-ui-components */,
 				A85609002235262F00A8EB13 /* Products */,
 				A4E2A3CF553EB466BEEF4AAC /* Pods */,
@@ -203,6 +206,7 @@
 				A856090D2235263100A8EB13 /* LaunchScreen.storyboard in Resources */,
 				A856090A2235263100A8EB13 /* Assets.xcassets in Resources */,
 				A8110808227451F900108F98 /* icon_fail.png in Resources */,
+				A811080B22748F3E00108F98 /* README.md in Resources */,
 				A85609082235262F00A8EB13 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
